@@ -1,0 +1,36 @@
+body{
+    background-color: #e5f4f9;
+}
+
+div{
+  text-align:center  
+}
+
+.red{
+    color: red;
+}
+
+.blue{
+    color: blue;
+}
+
+.font{
+    font-family: 'Courgette', cursive;;
+}
+
+.font2{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.list-style{
+    list-style-type: upper-roman;
+}
+
+.link:hover{
+    color: green;
+}
+
+body span a:link{
+    text-decoration: none;
+    color: red;
+}
